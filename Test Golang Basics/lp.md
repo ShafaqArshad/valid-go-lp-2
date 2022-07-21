@@ -3,7 +3,7 @@ categories:
 description: Lets learn how to develop a concurrent application in Go language.
 isAvailable: false
 isNew: false
-isPremium: false
+isPremium: true
 license: Apache
 scenarioCount: 1
 scenarios:
