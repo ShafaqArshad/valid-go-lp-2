@@ -1,7 +1,7 @@
 title: Test Web Apps in Go
 description: Learn the basics of Goroutines.
 time: 15 minutes
-level: intermediatee
+level: intermediate
 steps:
 - step1.md
 license: ""
