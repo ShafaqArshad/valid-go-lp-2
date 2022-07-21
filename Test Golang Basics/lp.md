@@ -9,6 +9,5 @@ scenarioCount: 1
 scenarios:
   - Test Golang Channels
 title: Golang Test Lp SA
-thumbnail: 
 state: draft
 points: 30
