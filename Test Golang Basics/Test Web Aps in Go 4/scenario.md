@@ -1,4 +1,4 @@
-title: Test Web Apps in Go 4
+title: Test Web Aps in Go 4
 description: Learn the basics of Goroutines.
 time: 15 minutes
 level: intermediate
